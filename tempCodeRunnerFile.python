@@ -1,0 +1,7 @@
+import cv2 as cv
+import keras
+import sys
+
+model = cv.CascadeClassifier(r"classifiers/cascade_12stages_24dim_0_25far.xml") 
+
+model.desribe
