@@ -5,4 +5,4 @@ The robot consists of a raspberry pi 3 B+ where opencv runs an object detection 
 
 # Our team won the TEK Expo for having the best third semester project.
 
-![Tennis ball pick up robot](./img/TBP_robot.HEIC)
+![Tennis ball pick up robot](img/TBP_robot.HEIC)
